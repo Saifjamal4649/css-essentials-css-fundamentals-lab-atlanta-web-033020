@@ -28,6 +28,10 @@ p {
 #details > div {
   float: left; 
 }
+nav a {
+  padding:10;
+  background: #ccc;
+}
 
 nav {text-align:center;} 
 footer {
