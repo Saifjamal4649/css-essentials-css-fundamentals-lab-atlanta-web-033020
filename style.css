@@ -25,6 +25,12 @@ p {
   width: 800px;
 }
 
+div {
+  display: block;
+  float: left;
+  
+}
+
 
 
 
