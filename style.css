@@ -25,7 +25,9 @@ p {
   width: 800px;
 }
 
-
+#details > div {
+  float: left; 
+}
 
 nav {text-align:center;} 
 footer {
